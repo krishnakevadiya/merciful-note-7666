@@ -1,0 +1,33 @@
+.po>img{
+    width: 100%;
+    
+}
+.lastbox{
+    width: 99%;
+    border: 0px solid black;
+    height: 400px;
+ 
+    
+}
+.insidebox{
+    border: 0px solid green;
+    margin: auto;
+    text-align: center;
+    width: 60%;
+   padding: 40px;
+   margin-top: 300px;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.social{
+    border: 0px solid red;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    padding-left: 390px;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

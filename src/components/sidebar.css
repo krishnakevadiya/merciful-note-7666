@@ -1,0 +1,72 @@
+.logo{
+   padding-top: 20px; 
+   border: 0px solid blue;
+   height:150px;
+   display: flex;
+  
+
+}
+.nav{
+    border: 0px solid red;
+    display: flex;
+    position: fixed;
+    margin: 20px;
+    
+    
+    
+    
+
+}
+.logo2{
+    
+    text-align: center;
+    border: 0px solid green;
+    font-size: 75px;
+    font-family:c;
+    color: black;
+ 
+   
+
+
+
+}
+.cross{
+ border: 0px solid yellow;
+ margin-bottom: 100px;
+ 
+
+
+}
+.boxx{
+    border: 0px solid blue;
+    display: flex;
+    padding-left: 550px;
+    width: 70%;
+    gap: 50px;
+ 
+   
+    color: black;
+    
+}
+.boxx>h3>a{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 1.3rem;
+    
+    
+}
+.boxx>h3>a:hover{
+    color:aliceblue;
+}
+.logo2>h1{
+    margin-top: 0px;
+    
+}
+.logo2>h1:hover{
+    color: aliceblue;
+}
+
+
+
+
