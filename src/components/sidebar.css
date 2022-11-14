@@ -3,6 +3,11 @@
    border: 0px solid blue;
    height:150px;
    display: flex;
+   width: 100%;
+   margin-bottom: 20px;
+  
+   
+ 
   
 
 }
@@ -10,7 +15,9 @@
     border: 0px solid red;
     display: flex;
     position: fixed;
-    margin: 20px;
+    height: 150px;
+    z-index: 15;
+    
     
     
     
@@ -23,7 +30,9 @@
     border: 0px solid green;
     font-size: 75px;
     font-family:c;
-    color: black;
+    color:whitesmoke;
+    position: relative;
+    top: -80px;
  
    
 
@@ -33,6 +42,7 @@
 .cross{
  border: 0px solid yellow;
  margin-bottom: 100px;
+ display: block;
  
 
 
@@ -59,13 +69,11 @@
 .boxx>h3>a:hover{
     color:aliceblue;
 }
-.logo2>h1{
+.logo2>h1>Link{
     margin-top: 0px;
     
 }
-.logo2>h1:hover{
-    color: aliceblue;
-}
+
 
 
 
