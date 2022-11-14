@@ -16,7 +16,7 @@ const Carouselll = () => {
        <Carousel 
        showThumbs={false}
        autoPlay={true}
-       transitionTime={500}
+       transitionTime={1000}
        showStatus={false}
        infiniteLoop={true}
     >
